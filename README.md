@@ -26,23 +26,23 @@ My final report includes:
 - Average Purchase Total per Person by Age Group
 ## Top Spenders
 Identify the top 5 spenders in the game by total purchase value, then list (in a table):
-SN
-Purchase Count
-Average Purchase Price
-Total Purchase Value
+- SN
+- Purchase Count
+- Average Purchase Price
+- Total Purchase Value
 ## Most Popular Items
 Identify the five most popular items by purchase count, then list (in a table):
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
+- Item ID
+- Item Name
+- Purchase Count
+- Item Price
+- Total Purchase Value
 ## Most Profitable Items
-Identify the five most profitable items by total purchase value, then list (in a table):
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
+- Identify the five most profitable items by total purchase value, then list (in a table):
+- Item ID
+- Item Name
+- Purchase Count
+- Item Price
+- Total Purchase Value
 # Conclusion
 I will complete this analysis by using what I have learned about Python Pandas. Then saving my work this the Pandas-Challange repo in my GitHub to show my work to others.
