@@ -1,5 +1,12 @@
 # Heros of Pymoli Pandas Analysis
 This week I was assigned the task of analyzing data for the fantasy game, Heroes of Pymoli. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. My first task is to generate a report that breaks down the game's purchasing data into meaningful insights.
+
+# Final Report Conclusion:
+
+## Demographics 
+From the Analysis, we have learned that there are 576 players of Heros of Pymoli. The Gender demographics show, 84.03% (484) of the players are male, 14.06% (81) of players are female, and 1.91%(11) of players are Non-Disclosed.  To add the player count and gender analysis, we have found the age demographics of the players. Our largest percentage of players are in the age range of 20-24 years old, 44.79% of players. The smallest percentage of players are over the age of 40, 2.08% of players. 
+
+
 My final report includes:
 ## Player Count
 - Total Number of Players
@@ -44,5 +51,4 @@ Identify the five most popular items by purchase count, then list (in a table):
 - Purchase Count
 - Item Price
 - Total Purchase Value
-# Conclusion
-I will complete this analysis by using what I have learned about Python Pandas. Then saving my work this the Pandas-Challange repo in my GitHub to show my work to others.
+
