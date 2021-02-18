@@ -10,14 +10,19 @@ From the Analysis, we have learned that there are 576 players of Heros of Pymoli
 ### Purchase Analysis (Total and Gender)
 The purchasing analysis shows that males make 83.59% of purchases. 
 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 ### Most Popular and Profitable Items
 The most popular items in Heros of Pymoli are Final Critic, Oathbreaker, Last Hope of the Breaking Storm, Fiery Glass Crusader, 
 Persuasion, and Extraction, Quickblade Of Trembling Hands. The top five most popular items come to a total purchase value of $212.73.
 The most profitable items are Final Critic, Oathbreaker, Last Hope of the Breaking Storm, Nirvana, Fiery Glass Crusader, and
 Singed Scalpel. The total purchase value results in $230.87. From this analysis, we see that two of our most popular items are not our most profitable. 
 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 ### Heros of Pymoli Top Spenders
 I have identified the Top Spenders of Heros of Pymoli. Player Lisosia93, has made five purchases with a total purchase value of $18.96. Idastidru52 and Iral74 both made four purchases. 
 Idastidru52 spent a total of $15.45. Iral74 spent a total of $13.62. 
 Chamjask73 and Iskadarya95 both made three purchases which average to 13.475 for three purchases. 
 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
